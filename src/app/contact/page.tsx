@@ -33,15 +33,15 @@ export default function ContactPage() {
             </Link>
             <p className="inline-flex items-center gap-3">
               <Phone aria-hidden="true" className="text-electric dark:text-fresh" size={18} />
-              {profile.phone || "Téléphone à compléter"}
+              {profile.phone || "+243 81 9339 737"}
             </p>
             <Link className="inline-flex items-center gap-3 hover:text-electric dark:hover:text-fresh" href={profile.github} target="_blank">
               <Github aria-hidden="true" className="text-electric dark:text-fresh" size={18} />
-              GitHub
+              mubaraka-dev
             </Link>
             <Link className="inline-flex items-center gap-3 hover:text-electric dark:hover:text-fresh" href={profile.linkedin || "#"}>
               <Linkedin aria-hidden="true" className="text-electric dark:text-fresh" size={18} />
-              {profile.linkedin || "LinkedIn à compléter"}
+              {profile.linkedinName || "LinkedIn à compléter"}
             </Link>
           </div>
         </div>
