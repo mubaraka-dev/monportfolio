@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Djana Academy project preview</title>
+  <desc id="desc">Interface abstraite de plateforme de formation numérique.</desc>
+  <rect width="960" height="600" fill="#F8FAFC"/>
+  <rect x="76" y="78" width="808" height="444" rx="18" fill="#0F172A"/>
+  <rect x="120" y="124" width="500" height="284" rx="14" fill="#172340"/>
+  <rect x="656" y="124" width="184" height="284" rx="14" fill="#172340"/>
+  <rect x="120" y="434" width="720" height="42" rx="10" fill="#172340"/>
+  <path d="M318 214 430 268 318 322V214Z" fill="#22C55E"/>
+  <rect x="156" y="454" width="438" height="8" rx="4" fill="#334155"/>
+  <rect x="156" y="454" width="276" height="8" rx="4" fill="#2563EB"/>
+  <circle cx="704" cy="170" r="18" fill="#22C55E"/>
+  <rect x="734" y="162" width="70" height="10" rx="5" fill="#E2E8F0"/>
+  <circle cx="704" cy="230" r="18" fill="#2563EB"/>
+  <rect x="734" y="222" width="82" height="10" rx="5" fill="#E2E8F0"/>
+  <circle cx="704" cy="290" r="18" fill="#2563EB"/>
+  <rect x="734" y="282" width="58" height="10" rx="5" fill="#E2E8F0"/>
+  <circle cx="704" cy="350" r="18" fill="#2563EB"/>
+  <rect x="734" y="342" width="76" height="10" rx="5" fill="#E2E8F0"/>
+</svg>

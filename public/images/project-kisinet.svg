@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Kisinet project preview</title>
+  <desc id="desc">Dashboard abstrait pour une plateforme SaaS de pharmacie.</desc>
+  <rect width="960" height="600" fill="#F8FAFC"/>
+  <rect x="72" y="70" width="816" height="460" rx="18" fill="#0F172A"/>
+  <rect x="104" y="108" width="168" height="384" rx="12" fill="#111C33"/>
+  <rect x="304" y="108" width="246" height="150" rx="12" fill="#172340"/>
+  <rect x="574" y="108" width="282" height="150" rx="12" fill="#172340"/>
+  <rect x="304" y="284" width="552" height="208" rx="12" fill="#172340"/>
+  <circle cx="144" cy="150" r="22" fill="#22C55E"/>
+  <rect x="180" y="136" width="58" height="12" rx="6" fill="#E2E8F0"/>
+  <rect x="128" y="214" width="112" height="10" rx="5" fill="#94A3B8"/>
+  <rect x="128" y="252" width="88" height="10" rx="5" fill="#94A3B8"/>
+  <rect x="128" y="290" width="122" height="10" rx="5" fill="#94A3B8"/>
+  <rect x="128" y="328" width="96" height="10" rx="5" fill="#94A3B8"/>
+  <rect x="338" y="142" width="86" height="12" rx="6" fill="#E2E8F0"/>
+  <rect x="338" y="188" width="176" height="30" rx="8" fill="#2563EB"/>
+  <rect x="608" y="142" width="100" height="12" rx="6" fill="#E2E8F0"/>
+  <rect x="608" y="188" width="188" height="30" rx="8" fill="#22C55E"/>
+  <path d="M340 430h486" stroke="#334155" stroke-width="2"/>
+  <path d="M340 386h486" stroke="#334155" stroke-width="2"/>
+  <path d="M340 342h486" stroke="#334155" stroke-width="2"/>
+  <path d="M356 438c54-72 96-86 142-50 40 31 74 20 112-50 38-70 86-44 120-8 22 23 48 28 82-18" fill="none" stroke="#22C55E" stroke-width="8" stroke-linecap="round"/>
+</svg>
