@@ -52,5 +52,34 @@ export const projects: Project[] = [
       "APIs pour applications web et mobiles"
     ],
     status: "En construction"
+  },
+  {
+    name: "Loyer360",
+    slug: "loyer360",
+    description:
+      "Solution numérique de gestion immobilière conçue pour faciliter la publication, la recherche et le suivi des biens, agences, propriétaires, locataires et opérations de location.",
+    image: "/images/project-loyer360.svg",
+    technologies: [
+      "Python",
+      "Django",
+      "Django REST Framework",
+      "PostgreSQL",
+      "Next.js",
+      "TypeScript",
+      "Cloudinary",
+      "AWS S3",
+      "JWT",
+      "OpenAPI"
+    ],
+    features: [
+      "Gestion des biens immobiliers et de leurs statuts",
+      "Types de biens: maisons, appartements, terrains, bureaux, hôtels, kiosques et salles",
+      "Gestion des agences immobilières et vérification",
+      "Ventes, locations et détails de bail",
+      "Recherche publique avec filtres avancés",
+      "Médias de biens: image principale, galerie, vidéos et documents privés",
+      "Authentification par email, JWT et intégration Djana Account"
+    ],
+    status: "En développement"
   }
 ];

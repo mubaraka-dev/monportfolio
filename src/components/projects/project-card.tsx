@@ -6,6 +6,8 @@ import { BadgeList } from "@/components/ui/badge-list";
 import { LinkButton } from "@/components/ui/button";
 
 export function ProjectCard({ project }: { project: Project }) {
+  const projectUrl = project.demo || project.github;
+
   return (
     <article className="card overflow-hidden hover:-translate-y-1 hover:border-electric/40 dark:hover:border-fresh/40">
       <div className="relative aspect-[16/10] bg-slate-100 dark:bg-slate-900">
@@ -42,11 +44,13 @@ export function ProjectCard({ project }: { project: Project }) {
         <div className="mt-5">
           <BadgeList items={project.technologies.slice(0, 7)} />
         </div>
-        <div className="mt-6">
-          <LinkButton className="w-full sm:w-auto" href={project.demo || project.github || "/contact"} variant="outline">
-            Voir le projet
-          </LinkButton>
-        </div>
+        {projectUrl ? (
+          <div className="mt-6">
+            <LinkButton className="w-full sm:w-auto" href={projectUrl} variant="outline">
+              Voir le projet
+            </LinkButton>
+          </div>
+        ) : null}
       </div>
     </article>
   );

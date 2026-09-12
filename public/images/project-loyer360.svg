@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Loyer360 project preview</title>
+  <desc id="desc">Interface abstraite de gestion locative et immobilière.</desc>
+  <rect width="960" height="600" fill="#F8FAFC"/>
+  <rect x="74" y="72" width="812" height="456" rx="18" fill="#0F172A"/>
+  <rect x="112" y="116" width="236" height="368" rx="14" fill="#172340"/>
+  <rect x="378" y="116" width="470" height="168" rx="14" fill="#172340"/>
+  <rect x="378" y="314" width="222" height="170" rx="14" fill="#172340"/>
+  <rect x="626" y="314" width="222" height="170" rx="14" fill="#172340"/>
+  <path d="M178 252h104v88H178z" fill="#2563EB"/>
+  <path d="m166 252 64-58 64 58" fill="#22C55E"/>
+  <rect x="206" y="286" width="48" height="54" rx="5" fill="#E2E8F0"/>
+  <rect x="138" y="386" width="184" height="12" rx="6" fill="#94A3B8"/>
+  <rect x="138" y="420" width="138" height="12" rx="6" fill="#64748B"/>
+  <rect x="138" y="454" width="158" height="12" rx="6" fill="#64748B"/>
+  <rect x="420" y="152" width="116" height="14" rx="7" fill="#E2E8F0"/>
+  <rect x="420" y="194" width="352" height="12" rx="6" fill="#64748B"/>
+  <rect x="420" y="228" width="284" height="12" rx="6" fill="#64748B"/>
+  <circle cx="754" cy="166" r="42" fill="#22C55E"/>
+  <path d="M736 166h36M754 148v36" stroke="#0F172A" stroke-width="8" stroke-linecap="round"/>
+  <rect x="420" y="360" width="76" height="12" rx="6" fill="#E2E8F0"/>
+  <rect x="420" y="400" width="132" height="30" rx="8" fill="#2563EB"/>
+  <rect x="668" y="360" width="86" height="12" rx="6" fill="#E2E8F0"/>
+  <rect x="668" y="400" width="122" height="30" rx="8" fill="#22C55E"/>
+</svg>
